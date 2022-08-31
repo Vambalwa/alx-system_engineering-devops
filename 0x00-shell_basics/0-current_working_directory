@@ -1,4 +1,2 @@
-1 #!/bin/bash
-2 mkdir 0x00-shell_basics
-3 cd 0x00-shell_basics
-4 touch 0-current_working_directory
+#!/bin/bash
+touch 0-current_working_directory
