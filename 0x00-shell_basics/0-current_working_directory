@@ -1,2 +1,2 @@
 #!/bin/bash
-readlink -f0x00-shell_basics
+readlink 0x00-shell_basics
